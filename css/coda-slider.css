@@ -154,3 +154,9 @@ ul.navigation a:focus {
 .hide {
     display: none;
 }
+
+.uredi img{
+  margin:10px;
+  float: left;
+    
+}
